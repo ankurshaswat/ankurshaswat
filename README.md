@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+<a href="https://github.com/japneetsingh5">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ankurshaswat&count_private=true&show_icons=true&theme=dark" />
+</a>
+<a href="https://github.com/japneetsingh5">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankurshaswat&layout=compact&count_private=true&theme=dark&hide=jupyter%20notebook&langs_count=10" />
+</a>
+
 <!--
 **ankurshaswat/ankurshaswat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
